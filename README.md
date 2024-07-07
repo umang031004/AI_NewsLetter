@@ -1,1 +1,2 @@
 # AI_NewsLetter
+Developed an AI-driven newsletter using Google SERP at CrewAI, providing users with relevant and up-to-date information. Leveraged advanced AI algorithms to curate and deliver personalized content, enhancing user engagement and satisfaction. Successfully integrated real-time search data, ensuring the newsletter's accuracy and relevance in delivering the latest industry trends and insights.
